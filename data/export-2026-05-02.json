@@ -1,0 +1,22 @@
+[
+  {
+    "id": "59fc7d39-e795-44a2-803a-9f92d097dfda",
+    "name": "Premium wireless earbuds - Wireless Bluetooth 5.0 Earbuds",
+    "description": "",
+    "source": "aliexpress",
+    "source_url": "https://www.aliexpress.com/item/1005000000000.html",
+    "category": "",
+    "images": "[\"https://example.com/earbuds.jpg\"]",
+    "price": 12.99,
+    "currency": "USD",
+    "shipping_cost": 0,
+    "rating": 4.5,
+    "review_count": 1542,
+    "orders_count": 15420,
+    "seller_rating": null,
+    "seller_name": null,
+    "variants": "[]",
+    "created_at": "2026-05-02T16:07:08.170Z",
+    "updated_at": "2026-05-02T16:07:08.171Z"
+  }
+]
